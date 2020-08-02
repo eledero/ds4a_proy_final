@@ -1,0 +1,53 @@
+/*This document contains the styles that use the app. You can change these as you wish.*/
+
+.ds4a-style-image {
+    position: fixed;
+    top: 1.5%;
+    left: 80%;
+    bottom: 0;
+    width: 16rem;
+    padding: 2rem 1rem;
+}
+
+.line-style-image {
+    position: fixed;
+    top: 42%;
+    left: 40%;
+    bottom: 0;
+    width: 16rem;
+    padding: 2rem 1rem;
+}
+
+    ###############################################################
+    #Inicio Parte nueva 20200729
+    ###############################################################
+.graph1-style-image {
+    position: fixed;
+    top: 45%;
+    left: 45%;
+    bottom: 0;
+    width: 16rem;
+    padding: 2rem 1rem;
+}
+
+.graph2-style-image {
+    position: fixed;
+    top: 45%;
+    left: 63%;
+    bottom: 0;
+    width: 16rem;
+    padding: 2rem 1rem;
+}
+
+.graph3-style-image {
+    position: fixed;
+    top: 45%;
+    left: 80%;
+    bottom: 0;
+    width: 16rem;
+    padding: 2rem 1rem;
+}
+
+###############################################################
+#Fin Parte nueva 20200729
+###############################################################
